@@ -46,9 +46,10 @@
             // 
             // pictureBox1
             // 
+            this.pictureBox1.Image = global::ModalModalessForm.Properties.Resources.img;
             this.pictureBox1.Location = new System.Drawing.Point(13, 13);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(192, 150);
+            this.pictureBox1.Size = new System.Drawing.Size(192, 128);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
